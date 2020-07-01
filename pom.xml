@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <log4j.core.version>2.12.0</log4j.core.version>
+        <log4j.core.version>2.13.2</log4j.core.version>
         <amqp.version>5.7.2</amqp.version>
         <amqp.starter.version>2.1.6.RELEASE</amqp.starter.version>
         <jackson.version>2.9.9.1</jackson.version>
