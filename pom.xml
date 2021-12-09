@@ -19,7 +19,7 @@
         <log4j.core.version>2.12.0</log4j.core.version>
         <amqp.version>5.7.2</amqp.version>
         <amqp.starter.version>2.1.6.RELEASE</amqp.starter.version>
-        <jackson.version>2.9.9.1</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
         <jpa.starter.version>2.1.6.RELEASE</jpa.starter.version>
         <mysql.connector.version>8.0.16</mysql.connector.version>
         <webmvc.version>5.1.5.RELEASE</webmvc.version>
